@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidController", "SolidController\SolidController.csproj", "{791BA2CF-0760-4332-9F90-21E494F7854A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{3DEB751F-ED69-44F1-B232-C8A832EC9B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791BA2CF-0760-4332-9F90-21E494F7854A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791BA2CF-0760-4332-9F90-21E494F7854A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791BA2CF-0760-4332-9F90-21E494F7854A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791BA2CF-0760-4332-9F90-21E494F7854A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEB751F-ED69-44F1-B232-C8A832EC9B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEB751F-ED69-44F1-B232-C8A832EC9B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEB751F-ED69-44F1-B232-C8A832EC9B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEB751F-ED69-44F1-B232-C8A832EC9B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85609A11-F4FD-4CD1-9D7F-245BBD7DD004}
+	EndGlobalSection
+EndGlobal
